@@ -6,24 +6,31 @@
 <a href="https://www.jmorbegoso.dev" target="_blank" rel="noreferrer">
 <h1 align="center">JM Orbegoso</h1>
 </a>
-<h3 align="center">DevOps, Back-End Software Developer and Open-Source Enthusiast</h3>
+<h3 align="center">DevOps | Back-End Software Developer | Automation Enthusiast</h3>
 
-- Building code solutions since 2016.
+- Currently working as a DevOps & Software Architect.
 
-- Currently working remotely as a DevOps & Software Architect.
-
-- Enthusiast of:
-
-  - Open-Source Projects 🌎.
-  - Self-Hosted Solutions 🏠.
-  - Automation 🤖.
+- Enthusiast of Automation Solutions.
 
 - Always looking for innovative open-source projects to collaborate on ⚡.
 
-- If you find any of my [repositories](https://github.com/JMOrbegoso?tab=repositories) useful, don't forget to leave a ⭐.
+---
 
-- You can check out my blog: [blog.jmorbegoso.dev](https://blog.jmorbegoso.dev).
+- Some of my most starred open-source projects:
+
+  - [Dotfiles-for-Windows-11 (97⭐)](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11)
+  - [PSWindowsDotfiles (15⭐)](https://github.com/JMOrbegoso/PSWindowsDotfiles)
+  - [wish-list-api (10⭐)](https://github.com/JMOrbegoso/wish-list-api)
+  - [PSWebSearch (6⭐)](https://github.com/JMOrbegoso/PSWebSearch)
+
+- Currently working on: [ansible-workstation](https://github.com/JMOrbegoso/ansible-workstation)
+
+- If you find any of my [repositories](https://github.com/JMOrbegoso?tab=repositories) useful, don't forget to leave a ⭐.
 
 ---
 
-If you want to know more about my profile or want to contact me, you can visit my professional portfolio at [www.jmorbegoso.dev](https://www.jmorbegoso.dev).
+**Links**
+
+- Portfolio & Contact: [jmorbegoso.dev](https://www.jmorbegoso.dev)
+- Blog: [blog.jmorbegoso.dev](https://blog.jmorbegoso.dev)
+- LinkedIn: [linkedin.com/in/jmorbegosodev](https://www.linkedin.com/in/jmorbegosodev/)
