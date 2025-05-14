@@ -1,16 +1,29 @@
-## Hi there 👋
+<a href="https://www.jmorbegoso.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/JMOrbegoso/JMOrbegoso/master/assets/banner.webp" alt="my banner"/>
+</a>
 
-<!--
-**JMOrbegoso/JMOrbegoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi there 👋 I'm</h3>
+<a href="https://www.jmorbegoso.dev" target="_blank" rel="noreferrer">
+<h1 align="center">JuanManuel Orbegoso</h1>
+</a>
+<h3 align="center">DevOps & Cloud Engineer | Back-End Software Developer | Automation Enthusiast</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Some of my most starred open-source projects:
+
+  - [Dotfiles-for-Windows-11 (125⭐)](https://github.com/JMOrbegoso/Dotfiles-for-Windows-11)
+  - [PSWindowsDotfiles (20⭐)](https://github.com/JMOrbegoso/PSWindowsDotfiles)
+  - [wish-list-api (10⭐)](https://github.com/JMOrbegoso/wish-list-api)
+  - [PSWebSearch (9⭐)](https://github.com/JMOrbegoso/PSWebSearch)
+  - [ansible-workstation (3⭐)](https://github.com/JMOrbegoso/ansible-workstation)
+
+- If you find any of my [repositories](https://github.com/JMOrbegoso?tab=repositories) useful, don't forget to leave a ⭐.
+
+---
+
+**Links**
+
+- Portfolio: [www.jmorbegoso.dev](https://www.jmorbegoso.dev)
+- Blog: [blog.jmorbegoso.dev](https://blog.jmorbegoso.dev)
+- LinkedIn: [linkedin.com/in/jmorbegosodev](https://www.linkedin.com/in/jmorbegosodev/)
